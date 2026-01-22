@@ -4,8 +4,8 @@ author_profile: true
 title: "Welcome to my Portfolio"
 ---
 
-#This website will show you all about me, Gabriel Del Valle, and my work experiences. I hope you enjoy!
+# This website will show you all about me, Gabriel Del Valle, and my work experiences. I hope you enjoy!
 
-###What i'm working on
+### What i'm working on
   * AI Interactive Educational TV Senior Capstone Project
   * Data Visualization
