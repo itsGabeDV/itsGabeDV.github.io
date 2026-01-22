@@ -28,6 +28,7 @@ author_profil: true
   * **Leadership & Training:** Appointed to mentor and train incoming bankers and tellers. Acted as a lead for cash shipments and resolved escalated customer complaints to maintain branch efficiency.
   * **Operational Excellence:** Entrusted with managerial-level tasks, ensuring team compliance and consistent success in a high-stakes environment. 
   *  ###### Key Skills: Detail Orientation, Risk Management, Customer Service, Teamwork
+
 ## Community Service & Leadership
   **Salt River Cleanup Initiative** | *Volunteer Coordinator*
   * Led a banking team in a large-scale volunteer cleanup project along the Salt River bed in South Phoenix.
