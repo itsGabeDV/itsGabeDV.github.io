@@ -8,7 +8,7 @@ feature_row:
     alt: "3D model PSD estimate"
     title: "Mayo Clinic 3D Estimation & 3D Modeling"
     excerpt: "Developed 3D patient models using depth cameras to enhance Peak Skin Dosage (PSD) accuracy. Built a data dashboard for MR technicians to streamline radiology workflows."
-  - image_path: /assets/images/game.jpg
+  - image_path: /assets/images/game.png
     alt: "Unity Tower Defense"
     title: "Unity Tower Defense Game"
     excerpt: "A strategic tower defense game built in the Unity Engine. Features custom soundFX, music, enemy pathfinding, and upgradable defensive structures."
