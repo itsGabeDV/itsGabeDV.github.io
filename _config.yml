@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: itsGabeDV
 minimal_mistakes_skin: dark
 search: false
-
+feed: false
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -59,24 +59,24 @@ author:
   avatar : "/assets/images/gabe.jpg"
   bio    : "I am a software engineer based in Phoenix with a passion for creating solutions to real-world problems using technology."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://itsGabeDV.github.io"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://itsGabeDV.github.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/gabriel-del-valle-3678a4312"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://itsGabeDV.github.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#     url: "https://itsGabeDV.github.com/"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/gabriel-del-valle-3678a4312"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://itsGabeDV.github.com/"
+#    - label: "GitHub"
+#     icon: "fab fa-fw fa-github"
+#      url: "https://itsGabeDV.github.com/"
 
 defaults:
   # _posts
