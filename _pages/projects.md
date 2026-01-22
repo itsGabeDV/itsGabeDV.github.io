@@ -8,6 +8,7 @@ feature_row:
     alt: "3D model PSD estimate"
     title: "Mayo Clinic 3D Estimation & 3D Modeling"
     excerpt: "Developed 3D patient models using depth cameras to enhance Peak Skin Dosage (PSD) accuracy. Built a data dashboard for MR technicians to streamline radiology workflows."
+#       
     url: "/experience/"
     btn_label: "View Experience Details"
     btn_class: "btn--primary"
