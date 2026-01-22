@@ -64,7 +64,7 @@ author:
       url: "https://itsGabeDV.github.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/gabriel-del-valle-3678a4312"
+      url: "https://linkedin.com/in/gabriel-del-valle-3678a4312"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://itsGabeDV.github.com/"
@@ -73,7 +73,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/gabriel-del-valle-3678a4312"
+      url: "https://linkedin.com/in/gabriel-del-valle-3678a4312"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://itsGabeDV.github.com/"
