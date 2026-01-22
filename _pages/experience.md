@@ -11,7 +11,7 @@ author_profil: true
     * **Academic Presentation:** Selected to present research findings at the HSI Summit (NAU, Oct 2024) and the WAESO Conference (Feb 2025), effectively communicating complex data to non-specialist audiences.
     * **Technical Stack:** Utilized **Blender**, **Python (Pandas, NumPy)**, and depth-camera hardware to solve real-world clinical challenges through iterative research and development.
   
-  *IT Help Desk Intern* | **City of Goodyear** |April 2024 - October 2024
+  *IT Help Desk Intern* | **City of Goodyear** | April 2024 - October 2024
     * **Infrastructure Management:** Managed technology inventory and executed asset deployment projects, ensuring city employees were equipped with up-to-date hardware.
     * **Technical Troubleshooting:** Provided support for hardware and software issues, gaining hands-on experience with PC internal components and IT systems.
     * **Process Improvement:** Assisted in large-scale hardware replacement cycles, reducing downtime for city departments.
