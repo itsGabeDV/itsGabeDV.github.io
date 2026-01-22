@@ -10,21 +10,24 @@ author_profil: true
   * **Data Visualization:** Built a custom dashboard for MR technicians using Python, streamlining data analysis and improving the workflow for radiology procedures.
   * **Academic Presentation:** Selected to present research findings at the HSI Summit (NAU, Oct 2024) and the WAESO Conference (Feb 2025), effectively communicating complex data to non-specialist audiences.
   * **Technical Stack:** Utilized Blender, Python (Pandas, NumPy), and depth-camera hardware to solve real-world clinical challenges through iterative research and development.
-    ###### Key Skills: Python, Blender, Public Speaking, Documentation, Teamwork
+  *  ###### Key Skills: Python, Blender, Public Speaking, Documentation, Teamwork, Analytical Thinking
+  
   *IT Help Desk Intern* | **City of Goodyear** | April 2024 - October 2024
   * **Infrastructure Management:** Managed technology inventory and executed asset deployment projects, ensuring city employees were equipped with up-to-date hardware.
   * **Technical Troubleshooting:** Provided support for hardware and software issues, gaining hands-on experience with PC internal components and IT systems.
   * **Process Improvement:** Assisted in large-scale hardware replacement cycles, reducing downtime for city departments.
- 
+  *  ###### Key Skills: Documentation, Teamwork, Hardware Knowledge
+  
  *Student Advisor* | **Estrella Mountain Community College** | September 2023 - April 2024
  * **Academic Mentorship:** Guided incoming students through the college transition, providing personalized advising on degree paths and enrollment processes.
  * **Relationship Building:** Developed strong interpersonal skills by identifying student goals and tailoring resources to support their educational journeys. 
-  
+ *  ###### Key Skills: Communication, Adaptability
+
   *Associate Banker* | **Wells Fargo** | November 2018 - May 2023
   * **Financial Consulting:** Advised customers on complex financial decisions and provided tailored banking solutions to meet long-term financial goals.
   * **Leadership & Training:** Appointed to mentor and train incoming bankers and tellers. Acted as a lead for cash shipments and resolved escalated customer complaints to maintain branch efficiency.
   * **Operational Excellence:** Entrusted with managerial-level tasks, ensuring team compliance and consistent success in a high-stakes environment. 
-
+  *  ###### Key Skills: Detail Orientation, Risk Management, Customer Service, Teamwork
 ## Community Service & Leadership
   **Salt River Cleanup Initiative** | *Volunteer Coordinator*
   * Led a banking team in a large-scale volunteer cleanup project along the Salt River bed in South Phoenix.
