@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: itsGabeDV
 minimal_mistakes_skin: dark
 search: false
-feed: false
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -50,7 +50,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
