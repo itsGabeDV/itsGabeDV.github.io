@@ -16,12 +16,9 @@
 title: Gabriel Del Valle's Portfolio
 email: gabrieldelvalle000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+  "Professional portfolio of Gabriel Del Valle, a Software Engineer specialized in Python, C, C++, Object Oriented Programming Principles, and Software Engineering. This site will be used to hold Gabriel's past work experience, projects, community service and links to social media."
 github_username: itsGabeDV
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
