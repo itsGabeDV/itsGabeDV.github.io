@@ -8,7 +8,7 @@ author_profil: true
   *Research Intern* | **Mayo Clinic** | May 2024 - May 2025
   * **3D Patient Modeling:** Developed 3D patient models using depth camera to enhance the accuracy of Peak Skin Dosage (PSD) estimates during fluoroscopic procedures.
   * **Data Visualization:** Built a custom dashboard for MR technicians using Python, streamlining data analysis and improving the workflow for radiology procedures.
-  * **Academic Presentation:** Selected to present research findings at the HSI Summit (NAU, Oct 2024) and the WAESO Conference (Feb 2025), effectively communicating complex data to non-specialist audiences.
+  * **Academic Presentation:** Selected to present research findings at the HSI Summit (NAU, Oct 2024) and the WAESO Conference (ASU, Feb 2025), effectively communicating complex data to non-specialist audiences.
   * **Technical Stack:** Utilized Blender, Python (Pandas, NumPy), and depth-camera hardware to solve real-world clinical challenges through iterative research and development.
   *  ###### Key Skills: Python, Blender, Public Speaking, Documentation, Teamwork, Analytical Thinking
   
