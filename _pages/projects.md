@@ -29,4 +29,4 @@ My research team and I built 3D models by capturing data using a Microsoft Kinec
 ### Unity Tower Defense Game
 I am passionate about C# scripting and game development. I completed this game as an honors project, navigating the challenges of game physics and state management. Feel free to try the game out—download below, extract the ZIP, and run the `.exe` file to play!
 
-[Download the Game (.zip)](/assets/downloads/tower-defense-build.zip){: .btn .btn--info}
+[Download the Game (.zip)](/assets/downloads/Tower Defense 1.2.zip){: .btn .btn--info}
