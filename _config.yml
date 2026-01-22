@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   "Professional portfolio of Gabriel Del Valle, a Software Engineer specialized in Python, C, C++, Object Oriented Programming Principles, and Software Engineering. This site will be used to hold Gabriel's past work experience, projects, community service and links to social media."
 github_username: itsGabeDV
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
