@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Gabriel Del Valle"
   avatar : "/assets/images/gabe.jpg"
-  bio    : "I am a software engineer based in Phoenix with a passion for creating solutions to real-world problems using technology."
+  bio    : "I am a software engineer based in Phoenix with a passion for creating solutions to real-world problems."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
