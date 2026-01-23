@@ -10,3 +10,6 @@ title: "Welcome to my Portfolio"
   * AI Interactive Educational TV Senior Capstone Project
   * Data Visualization
   * Computer Graphics
+
+Check out my past projects
+
