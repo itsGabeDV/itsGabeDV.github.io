@@ -12,4 +12,6 @@ title: "Welcome to my Portfolio"
   * Computer Graphics
 
 Check out my past projects
-
+url: "/projects/"
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
