@@ -11,7 +11,5 @@ title: "Welcome to my Portfolio"
   * Data Visualization
   * Computer Graphics
 
-Check out my past projects
-url: "/projects/"
-    btn_label: "View Projects"
-    btn_class: "btn--primary"
+[View my projects](/projects/){: .btn .btn--primary .btn--large}
+
