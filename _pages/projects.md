@@ -35,7 +35,7 @@ tower_defense_gallery:
     alt: "Gameplay Screenshot"
   - url: /assets/images/game.png
     image_path: /assets/images/game.png
-    alt: "Second Gameplay Screenshot
+    alt: "Second Gameplay Screenshot"
 ---
 
 Welcome to my project showcase. Below are some of the projects I have had the pleasure of working on.
