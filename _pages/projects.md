@@ -9,14 +9,14 @@ psd_project:
   - image_path: /assets/images/mayo_model.jpg
     alt: "3D model PSD estimate"
     title: "Mayo Clinic 3D Estimation & 3D Modeling"
-    excerpt: "The goal of the project was to improve the accuracy of Peak Skin Dose (PSD) estimates to enchance fluroscopy patient safety. To do this me and my team developed 3D patient models using a depth camera and calculated PSD estimates of the models using a python based PSD calculator. The result of this project was that we succesfully created a prototype method of creating patient accurate 3D models and shared our research findings in 2 different research conventions.
+    excerpt: "The goal of the project was to improve the accuracy of Peak Skin Dose (PSD) estimates to enchance fluroscopy patient safety. Fluoroscopy procedures utilize generic patient data in PSD estimates. My research team was tasked with creating patient specefic models to attain more accurate estimates. To do this me and my team developed patient models using a depth camera and calculated PSD estimates of the models using a python based PSD calculator. The result of this project was that we succesfully created a prototype method of creating high-accuracy modeling method and shared our research findings in 2 different research conventions.
 
 psd_gallery:
     - url: /assets/images/psd_model.jpg
-      image_path:/assets/images/estimates.jpg
+      image_path:/assets/images/psd_model.jpg
       alt: "Calculating PSD cases on 3D models." 
-    - url:/assets/images/presenting.jpg
-      image_path: /assets/images/presenting.jpg
+    - url:/assets/images/presenting.JPG
+      image_path: /assets/images/presenting.JPG
       alt: "Presenting at the HSI summit, October 2024."
 
 # Tower Defense Game
