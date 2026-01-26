@@ -12,7 +12,7 @@ psd_project:
     excerpt: "The goal of the project was to improve the accuracy of Peak Skin Dose (PSD) estimates to enchance fluroscopy patient safety. To do this me and my team developed 3D patient models using a depth camera and calculated PSD estimates of the models using a python based PSD calculator. The result of this project was that we succesfully created a prototype method of creating patient accurate 3D models and shared our research findings in 2 different research conventions.
 
 psd_gallery:
-    - url: /assets/images/estimates.jpg
+    - url: /assets/images/psd_model.jpg
       image_path:/assets/images/estimates.jpg
       alt: "Calculating PSD cases on 3D models." 
     - url:/assets/images/presenting.jpg
