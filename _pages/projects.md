@@ -4,38 +4,38 @@ title: "Technical Projects"
 permalink: /projects/
 author_profile: true
 
-# Creating Patient-Specefic Models for Fluroscopy PSD Estimation
+# Creating Patient-Specific Models for Fluoroscopy PSD Estimation
 psd_project:
   - image_path: /assets/images/mayo_model.jpg
     alt: "3D model PSD estimate"
     title: "Mayo Clinic 3D Estimation & 3D Modeling"
-    excerpt: "The goal of the project was to improve the accuracy of Peak Skin Dose (PSD) estimates to enchance fluroscopy patient safety. Fluoroscopy procedures utilize generic patient data in PSD estimates. My research team was tasked with creating patient specefic models to attain more accurate estimates. To do this me and my team developed patient models using a depth camera and calculated PSD estimates of the models using a python based PSD calculator. The result of this project was that we succesfully created a prototype method of creating high-accuracy modeling method and shared our research findings in 2 different research conventions.
+    excerpt: "The goal of the project was to improve the accuracy of Peak Skin Dose (PSD) estimates to enhance fluoroscopy patient safety. Fluoroscopy procedures utilize generic patient data in PSD estimates. My research team was tasked with creating patient-specific models to attain more accurate estimates. To do this, my team and I developed patient models using a depth camera and calculated PSD estimates using a Python-based PSD calculator. We successfully created a prototype method for high-accuracy modeling and shared our research findings at two different conventions."
 
 psd_gallery:
-    - url: /assets/images/psd_model.jpg
-      image_path:/assets/images/psd_model.jpg
-      alt: "Calculating PSD cases on 3D models." 
-    - url:/assets/images/presenting.JPG
-      image_path: /assets/images/presenting.JPG
-      alt: "Presenting at the HSI summit, October 2024."
+  - url: /assets/images/psd_model.jpg
+    image_path: /assets/images/psd_model.jpg
+    alt: "Calculating PSD cases on 3D models."
+  - url: /assets/images/presenting.JPG
+    image_path: /assets/images/presenting.JPG
+    alt: "Presenting at the HSI summit, October 2024."
 
 # Tower Defense Game
-  tower_defense_game:
-  -image_path: /assets/images/game.png
+tower_defense_game:
+  - image_path: /assets/images/game.png
     alt: "Unity Tower Defense"
     title: "Unity Tower Defense Game"
-    excerpt: "I wanted to create a game on the Unity Engine for an Honors  Project. The game I had set in mind was a strategic tower defense game. Over the course of the semester i created simple game assets, worked on game logic, custom soundFX, music, enemy pathfinding, and upgradable defensive structures. The outcome is a simple yet fully working fun small tower defense game. Feel free to try the game out—download below, extract the ZIP, and run the `.exe` file to play!."
-    url: "assets/downloads/Tower-Defense-1.2.zip"
+    excerpt: "I created a strategic tower defense game on the Unity Engine for an Honors Project. Over the course of the semester, I created game assets, worked on game logic, custom soundFX, music, enemy pathfinding, and upgradable defensive structures. The outcome is a fully functional, small tower defense game. Feel free to try the game out—download below, extract the ZIP, and run the .exe file to play!"
+    url: "/assets/downloads/Tower-Defense-1.2.zip"
     btn_label: "Download Game (.zip)"
     btn_class: "btn--info"
 
 tower_defense_gallery:
-  - url: /assets/images/game_ss1.png
-    image_path: /assets/images/game_ss1.png
+  - url: /assets/images/game.png
+    image_path: /assets/images/game.png
     alt: "Gameplay Screenshot"
-  - url: /assets/images/game_ss2.png
-    image_path: /assets/images/game_ss2.png
-    alt: "Upgrade Menu"
+  - url: /assets/images/game.png
+    image_path: /assets/images/game.png
+    alt: "Second Gameplay Screenshot
 ---
 
 Welcome to my project showcase. Below are some of the projects I have had the pleasure of working on.
@@ -43,10 +43,7 @@ Welcome to my project showcase. Below are some of the projects I have had the pl
 {% include feature_row id="psd_project" %}
 {% include gallery id="psd_gallery" %}
 
-***
+---
 
 {% include feature_row id="tower_defense_game" %}
 {% include gallery id="tower_defense_gallery" %}
-
-
-
