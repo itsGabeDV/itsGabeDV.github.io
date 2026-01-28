@@ -18,11 +18,11 @@ psd_gallery:
 
 # MRI Dashboard
 mri_dashboard_gallery:
-  - url: /assets/images/mri_board.jpg
-    image_path: /assets/images/mri_board.jpg
+  - url: /assets/images/mri_board.png
+    image_path: /assets/images/mri_board.png
     alt: "Simple MRI Dashboard to streamline data."
-  - url: /assets/images/mri_plot.jpg
-    image_path: /assets/images/mri_plot.jpg
+  - url: /assets/images/mri_plot.png
+    image_path: /assets/images/mri_plot.png
     alt: "Different types of graphs."
 # Tower Defense Game
 
