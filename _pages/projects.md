@@ -7,8 +7,8 @@ author_profile: true
 # Creating Patient-Specific Models for Fluoroscopy PSD Estimation
 psd_gallery:
   - url: /assets/images/mayo_model.jpg
-  image_path: /assets/images/mayo_model.jpg
-  alt: "Scanning patient model with depth camera."
+    image_path: /assets/images/mayo_model.jpg
+    alt: "Scanning patient model with depth camera."
   - url: /assets/images/psd_model.jpg
     image_path: /assets/images/psd_model.jpg
     alt: "Calculating PSD cases on 3D models."
