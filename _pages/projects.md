@@ -22,7 +22,7 @@ mri_dashboard_gallery:
     image_path: /assets/images/mri_board.jpg
     alt: "Simple MRI Dashboard to streamline data."
   - url: /assets/images/mri_plot.jpg
-    image_path:/assets/images/mri_plot.jpg
+    image_path: /assets/images/mri_plot.jpg
     alt: "Different types of graphs."
 # Tower Defense Game
 
