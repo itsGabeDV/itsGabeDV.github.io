@@ -16,9 +16,15 @@ psd_gallery:
     image_path: /assets/images/presenting.JPG
     alt: "Presenting at the HSI summit, October 2024."
 
+# MRI Dashboard
+mri_dashboard_gallery:
+  - url: /assets/images/mri_board.jpg
+    image_path: /assets/images/mri_board.jpg
+    alt: "Simple MRI Dashboard to streamline data."
+  - url: /assets/images/mri_plot.jpg
+    image_path:/assets/images/mri_plot.jpg
+    alt: "Different types of graphs."
 # Tower Defense Game
-
-
 
 tower_defense_gallery:
   - url: /assets/images/game.png
@@ -34,16 +40,23 @@ tower_defense_gallery:
 
 Welcome to my project showcase. Below are some of the projects I have had the pleasure of working on.
 
+## Creating Patient-Specific Models for Fluoroscopy PSD Estimation
 {% include gallery id="psd_gallery" %}
 
 "The goal of the project was to improve the accuracy of Peak Skin Dose (PSD) estimates to enhance fluoroscopy patient safety. Fluoroscopy procedures utilize generic patient data in PSD estimates. My research team was tasked with creating patient-specific models to attain more accurate estimates. To do this, my team and I developed patient models using a depth camera and calculated PSD estimates using a Python-based PSD calculator. We successfully created a prototype method for high-accuracy modeling and shared our research findings at two different conventions."
 
 ---
 
+## Dashboard Creation for Physicians and MR Technicians
+{% include gallery id="mri_dashboard_gallery" %}
+
+"The goal of the project was to develop a dashboard to streamline radiology data into an intuitive dashboard, assisting physicians and MR technicians in identifying workflow efficiencies. Utilizing Python libraries, including Pandas and NumPy for data processing, and Dash and Plotly for visualization. My team developed a functional interface for real-time analysis. The final dashboard allows technicians to filter by date, search specefic data, and toggle between graph types."
+
+---
+
+## Unity Tower Defense Game
 {% include gallery id="tower_defense_gallery" %}
 
 "I created a strategic tower defense game on the Unity Engine for an Honors Project. Over the course of the semester, I created game assets, worked on game logic, custom soundFX, music, enemy pathfinding, and upgradable defensive structures. The outcome is a fully functional, small tower defense game. Feel free to try the game out—download below, extract the ZIP, and run the .exe file to play!"
 
-    url: "/assets/downloads/Tower-Defense-1.2.zip"
-    btn_label: "Download Game (.zip)"
-    btn_class: "btn--info"
+[Download Game (.zip)](/assets/downloads/Tower_Defense_1.2.zip){: .btn .btn--info}
