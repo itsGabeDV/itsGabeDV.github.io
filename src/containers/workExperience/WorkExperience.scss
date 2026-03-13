@@ -34,4 +34,19 @@
     font-size: 30px;
     text-align: center;
   }
+
+  .experience-container {
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+  }
+
+  .experience-cards-div {
+    grid-template-columns: 1fr; /* Single column on mobile */
+    
+  }
+
+  .experience-container {
+  border: 3px solid red;
+}
 }
