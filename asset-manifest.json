@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.93786738.css",
-    "main.js": "/static/js/main.6173f1b3.js",
+    "main.js": "/static/js/main.7e32de6e.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -14,6 +14,7 @@
     "static/media/gam_ss2.png": "/static/media/gam_ss2.f5ac2a950d09d71e5d30.png",
     "static/media/presenting.JPG": "/static/media/presenting.1a3632b5ffc002dc84a3.JPG",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/america-reads-logo.png": "/static/media/america-reads-logo.1111e47ea9056c8be5f4.png",
     "static/media/wells_logo.jpg": "/static/media/wells_logo.5ba49fb2d951f397f9c8.jpg",
     "static/media/psd_model.jpg": "/static/media/psd_model.fd5863e43582f19dda37.jpg",
     "static/media/resume.pdf": "/static/media/resume.786cdf5f216374d045e1.pdf",
@@ -34,7 +35,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.93786738.css.map": "/static/css/main.93786738.css.map",
-    "main.6173f1b3.js.map": "/static/js/main.6173f1b3.js.map",
+    "main.7e32de6e.js.map": "/static/js/main.7e32de6e.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -42,6 +43,6 @@
   },
   "entrypoints": [
     "static/css/main.93786738.css",
-    "static/js/main.6173f1b3.js"
+    "static/js/main.7e32de6e.js"
   ]
 }
