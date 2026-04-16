@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a948344f.css",
-    "main.js": "/static/js/main.5ce4f9fd.js",
+    "main.js": "/static/js/main.8a0b9d55.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -21,9 +21,9 @@
     "static/media/mri_plot.png": "/static/media/mri_plot.04c9d4c5f95b501549d0.png",
     "static/media/asu_logo.png": "/static/media/asu_logo.3dd4651044e26d0832ac.png",
     "static/media/mri_board.png": "/static/media/mri_board.b75331d5c40163388c7a.png",
-    "static/media/america-reads-logo.jpg": "/static/media/america-reads-logo.fa3e622f28e1f5695aba.jpg",
     "static/media/goodyear-logo.jpg": "/static/media/goodyear-logo.22359d93348f3c3c8aa2.jpg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/america-reads-logo.png": "/static/media/america-reads-logo.42d13f2f769abc89a608.png",
     "static/media/mayo-clinic-logo.png": "/static/media/mayo-clinic-logo.7d74bfde8a2126e9d245.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
@@ -35,7 +35,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.a948344f.css.map": "/static/css/main.a948344f.css.map",
-    "main.5ce4f9fd.js.map": "/static/js/main.5ce4f9fd.js.map",
+    "main.8a0b9d55.js.map": "/static/js/main.8a0b9d55.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -43,6 +43,6 @@
   },
   "entrypoints": [
     "static/css/main.a948344f.css",
-    "static/js/main.5ce4f9fd.js"
+    "static/js/main.8a0b9d55.js"
   ]
 }
