@@ -427,7 +427,7 @@ const talkSection = {
       subtitle: "My research presentation at Flagstaff, AZ, October 2024",
       slides_url: "https://docs.google.com/presentation/d/15Z7H8WwaEwDQXAct8ThHtnd5nyHlf2nN_X_6p412TCg/edit?usp=sharing",
       event_url: "https://hsi.arizona.edu/sites/default/files/2024-10/FINAL-AZ-HSI-Consortium-2024-AZ-HSI-Summit-Program_0.pdf",
-      image: require("./assets/images/presenting.JPG")
+      image: require("./assets/images/presenting.jpeg")
     }
   ], 
   display: true // Set false to hide this section, defaults to true
