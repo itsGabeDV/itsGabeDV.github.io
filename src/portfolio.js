@@ -26,7 +26,7 @@ const greeting = {
     "A passionate software engineer finishing my B.S. in Computer Science at ASU, with 4+ years building solutions in C#, C++, Java, Python, HTML, and CSS — including game development with Unity. I thrive on breaking complex problems into clean, scalable solutions and I'm always looking for opportunities to grow as an engineer."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1SSCOUUjeN2KRjNPLqsfCRuIKylAHrIF6/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1Be61eW2LLrNzYpGNca_tP-gMVFShNlvY/view?usp=sharing", // Set to empty to hide the button
     
   displayGreeting: true // Set false to hide this section, defaults to true
 };
@@ -192,14 +192,14 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Tutor",
-      company: "America Reads",
-      companylogo: require("./assets/images/america-reads-logo.png"),
-      date: "February 2026 - Present",
+      role: "Data Analyst Intern",
+      company: "SWMAC",
+      companylogo: require("./assets/images/southwest_mac_logo.jpg"),
+      date: "August 2026 - Present",
       desc: "",
       descBullets: [
-        "Tutoring: Tutor K-8th students in math and other core subjects, adapting lessons to each student's learning style.",
-        "Mentorship: Build positive relationships with students to support both academic growth and personal confidence",        
+        "Conduct technology assessments for Army stakeholders by engaging with companies, analyzing technical capabilities and mission applicability, identifying potential solutions to warfighter capability gaps, and translating findings into decision-support reports and recommendations.",
+        "Contribute to the development of an internal CRM and technology-management platform, currently designing and implementing data-export/reporting functionality and prototyping a supply-chain capability while collaborating with the development team through an Agile workflow.",
       ]
     },
     {
@@ -306,7 +306,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Download Game (.zip)",
-          url: "downloads/tower-defense.zip"
+          url: "downloads/Tower_Defense.zip"
         }
       ]
     }
