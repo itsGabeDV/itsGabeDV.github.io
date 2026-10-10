@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a948344f.css",
-    "main.js": "/static/js/main.6209aabc.js",
+    "main.js": "/static/js/main.920f9ce2.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -16,7 +16,7 @@
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/wells_logo.jpg": "/static/media/wells_logo.abcb71b146563e039059.jpg",
     "static/media/psd_model.jpg": "/static/media/psd_model.f62519de8a9f3e88e0e1.jpg",
-    "static/media/resume.pdf": "/static/media/resume.470623c557a817bfa35c.pdf",
+    "static/media/resume.pdf": "/static/media/resume.88b5d8b8a73c6faa601c.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/mri_plot.png": "/static/media/mri_plot.04c9d4c5f95b501549d0.png",
     "static/media/asu_logo.png": "/static/media/asu_logo.3dd4651044e26d0832ac.png",
@@ -34,7 +34,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.a948344f.css.map": "/static/css/main.a948344f.css.map",
-    "main.6209aabc.js.map": "/static/js/main.6209aabc.js.map",
+    "main.920f9ce2.js.map": "/static/js/main.920f9ce2.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -42,6 +42,6 @@
   },
   "entrypoints": [
     "static/css/main.a948344f.css",
-    "static/js/main.6209aabc.js"
+    "static/js/main.920f9ce2.js"
   ]
 }
