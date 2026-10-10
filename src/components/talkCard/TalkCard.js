@@ -9,8 +9,6 @@ export default function TalkCard({ talkDetails }) {
         {talkDetails.image && (
           <img src={talkDetails.image} alt={talkDetails.title} className="talk-card-image" />
         )}
-
-        <div className="diagonal-fill"></div>
         <div className="talk-card-title">{talkDetails.title}</div>
         <p className="talk-card-subtitle">{talkDetails.subtitle}</p>
 
